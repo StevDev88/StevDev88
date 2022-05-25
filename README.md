@@ -10,8 +10,8 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=StevDev88&style=plastic&color=blue" alt=""/>
   <h1>
-  Why, hello there.<br>My name is Steven Gilliland.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Why, hello there.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+    My name is Steven Gilliland.
 </h1>
   </div>
   
