@@ -10,7 +10,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=StevDev88&style=plastic&color=blue" alt=""/>
   <h1>
-  Why, hello there.  My name is Steven Gilliland.
+  Why, hello there.<br>My name is Steven Gilliland.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
@@ -27,11 +27,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Long Island.
 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a freelance Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Codewars and make tasty barbecue 🍖.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-StevenGilliland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevgill/)
 
