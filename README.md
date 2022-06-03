@@ -10,7 +10,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=StevDev88&style=plastic&color=blue" alt=""/>
   <h1>
-  Why, hello there.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/><br>
+  Why, hello there.<br>
     My name is Steven Gilliland.
 </h1>
   </div>
@@ -51,5 +51,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StevDev88&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StevDev88&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevDev88&layout=compact&theme=vision-friendly-dark)](https://github.com/StevDev88/github-readme-stats)
