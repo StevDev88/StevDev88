@@ -29,6 +29,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a freelance Software Engineer and contributing to frontend and backend for building web applications.
 
+- :coffee: I'm the Chapter Leader for <a href="https://www.newyorkcodeandcoffee.com/">New York City's Code and Coffee meetup</a>.  Catch me in the Big Apple every other Sunday at the <a href="https://www.codeandcoffee.community/">best tech meetup around!</a>
+
 - :zap: In my free time, I solve problems on Codewars and make tasty barbecue 🍖.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-StevenGilliland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevgill/)
