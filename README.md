@@ -54,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 👀 Projects:
    <!-- PROJECT 1 -->         
   <h2 align="center" color="white">DevDays</h2>
-      <br>
+      
  <p align="center">
   DevDays is a team-built CRUD app that gives developers a place to journal about their current projects.  Features cross-posting to Twitter and linking to GitHub to share your progress with others and facilitate building in public.
   </p>
@@ -62,6 +62,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <a href="http://teamasaurus-devdays.herokuapp.com/">   
       <img src="https://user-images.githubusercontent.com/67973604/191321026-9311566e-e6ab-4c5a-af0d-dee50838ddc8.gif" />
   </div>  
+  
+  ---
+  
+  <!-- PROJECT 2 -->         
+  <h2 align="center" color="white">Star Trek Alien Database</h2>
+      
+ <p align="center">
+  This was a fun side-project built to showcase my love for the Star Trek universe.  Enter an alien race and click search to bring up information about them from the Memory Alpha Star Trek database.  Never be caught unaware on an away mission again!
+  </p>
+  <div align="center" >
+      <a href="https://star-trek-alien-guide.netlify.app/"><img src="https://i.ibb.co/bFnDKmF/star-trek-alien-guide.gif" alt="star-trek-alien-guide"></a>
+  </div>  
+
 
 ---
 
