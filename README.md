@@ -71,8 +71,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <p align="center">
   This was a fun side-project built to showcase my love for the Star Trek universe.  Enter an alien race and click search to bring up information about them from the Memory Alpha Star Trek database.  Never be caught unaware on an away mission again!
   </p>
-  <div align="center" >
-      <a href="https://star-trek-alien-guide.netlify.app/"><img src="https://i.ibb.co/bFnDKmF/star-trek-alien-guide.gif" alt="star-trek-alien-guide"></a>
+  <div align="center">
+      <a href="https://star-trek-alien-guide.netlify.app/"><img src="https://s4.gifyu.com/images/star-trek-alien-guide.gif" alt="star-trek-alien-guide" width= "500"></a>
   </div>  
 
 
